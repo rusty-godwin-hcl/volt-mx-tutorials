@@ -18,8 +18,8 @@ const HikePage = () => {
 
   const isMXGo = () => {
     const path = router.asPath.split(/\?/);
-    const searchParams = new URLSearchParams(path[1]);
-    return searchParams.get('isMXGo') === 'true';
+    const searchParams = new URLSearchParams(path[1].toLowerCase());
+    return searchParams.get('ismxgo') === 'true';
   };
 
   useEffect(() => {
