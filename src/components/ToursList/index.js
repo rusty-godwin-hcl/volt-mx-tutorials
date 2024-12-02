@@ -26,7 +26,7 @@ const ToursList = ({
     </Row>
     <Row type="flex" className={style.assetsContainer}>
     {tours.map(item => (item.isMXGo === undefined || isMXGo === item.isMXGo ? (
-        <TourCard tour={item} key={item.nid} dbx={title.toLowerCase() === 'dbx'} />
+        <TourCard tour={item} key={item.nid} dbx={title.toLowerCase() === 'dbx'} isMXGo={isMXGo} />
       ) : null))}
     </Row>
   </div>

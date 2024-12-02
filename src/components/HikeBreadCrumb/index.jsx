@@ -5,6 +5,7 @@ import Link from 'next/link';
 import styles from './style.scss';
 import { BASE_PATH_URL, isDev } from '../../config';
 import i18next from '../../../i18n';
+import { useRouter } from 'next/router';
 
 const URL = !isDev ? `/${BASE_PATH_URL}` : '';
 
@@ -14,49 +15,57 @@ const propTypes = {
   search: PropTypes.string.isRequired,
 };
 
-const HikeBreadCrumb = ({ title, className, search }) => (
-  <div className={`${styles.breadcrumbWrapper} ${className}`}>
-    <Breadcrumb separator={<span className={styles.divider}>/</span>}>
-      <Breadcrumb.Item>
-        <Link
-          href={{
-            pathname: `${URL}/hikes`,
-            query: {
-              lang: i18next.language,
-            },
-          }}
-        >
-          <a className={styles.parent}>
-            HIKES
-          </a>
-        </Link>
-      </Breadcrumb.Item>
-      {
-        search !== undefined && search !== null
-          ? (
-            <Breadcrumb.Item>
-              <Link
-                href={{
-                  pathname: `/hikes/search/${search}}`,
-                  query: {
-                    lang: i18next.language,
-                  },
-                }}
-              >
-                <a className={styles.parent}>
-                  {search}
-                </a>
-              </Link>
-            </Breadcrumb.Item>
-          )
-          : null
-      }
-      <Breadcrumb.Item className={styles.child}>
-        {title || null}
-      </Breadcrumb.Item>
-    </Breadcrumb>
-  </div>
-);
+const HikeBreadCrumb = ({ title, className, search }) => {
+  const router = useRouter();
+  const path = router.asPath.split(/\?/);
+  const searchParams = new URLSearchParams(path[1].toLowerCase());
+  const isMXGo = searchParams.get('ismxgo') === 'true';
+
+  return (
+    <div className={`${styles.breadcrumbWrapper} ${className}`}>
+      <Breadcrumb separator={<span className={styles.divider}>/</span>}>
+        <Breadcrumb.Item>
+          <Link
+            href={{
+              pathname: `${URL}/hikes`,
+              query: {
+                lang: i18next.language,
+                ismxgo: isMXGo,
+              },
+            }}
+          >
+            <a className={styles.parent}>
+              HIKES
+            </a>
+          </Link>
+        </Breadcrumb.Item>
+        {
+          search !== undefined && search !== null
+            ? (
+              <Breadcrumb.Item>
+                <Link
+                  href={{
+                    pathname: `/hikes/search/${search}}`,
+                    query: {
+                      lang: i18next.language,
+                    },
+                  }}
+                >
+                  <a className={styles.parent}>
+                    {search}
+                  </a>
+                </Link>
+              </Breadcrumb.Item>
+            )
+            : null
+        }
+        <Breadcrumb.Item className={styles.child}>
+          {title || null}
+        </Breadcrumb.Item>
+      </Breadcrumb>
+    </div>
+  );
+};
 
 HikeBreadCrumb.propTypes = propTypes;
 export default HikeBreadCrumb;
