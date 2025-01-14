@@ -2,17 +2,21 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Breadcrumb from 'antd/lib/breadcrumb';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import styles from './style.scss';
 import { BASE_PATH_URL, isDev } from '../../config';
 import i18next from '../../../i18n';
-import { useRouter } from 'next/router';
 
 const URL = !isDev ? `/${BASE_PATH_URL}` : '';
 
 const propTypes = {
   title: PropTypes.string.isRequired,
-  className: PropTypes.string.isRequired,
+  className: PropTypes.string,
   search: PropTypes.string.isRequired,
+};
+
+const defaultProps = {
+  className: '',
 };
 
 const HikeBreadCrumb = ({ title, className, search }) => {
@@ -68,4 +72,6 @@ const HikeBreadCrumb = ({ title, className, search }) => {
 };
 
 HikeBreadCrumb.propTypes = propTypes;
+HikeBreadCrumb.defaultProps = defaultProps;
+
 export default HikeBreadCrumb;
