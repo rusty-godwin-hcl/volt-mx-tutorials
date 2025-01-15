@@ -1,56 +1,6 @@
 {
   "allTours": [
     {
-      "nid": 24438,
-      "title": "Introduction to NFIs",
-      "created": 1585630242,
-      "updated": 1615282019,
-      "fileSize": "19.84 KB",
-      "fileName": "introductiontonfiv9.zip",
-      "fid": 17807,
-      "checksum": "361881a8364bff4507e499c7cd3f0589d8cd98b8cc90e0bcc9193d0ae7fd1b3e",
-      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-nfis-0",
-      "alias": "hikes/tour/introduction-nfis-0",
-      "description": "Use NFIs to access OS specific functionality, specifically Android Device Settings.",
-      "details": "<p><!--StartFragment--></p><div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Configure the Android Native Function APIs required to access Device settings on Android device from an app using Volt MX Iris.</li> <li>Add code in the Form controller to access Device Settings</li> </ul> </div> </div> <p><!--EndFragment--></p>",
-      "cards": 15,
-      "time": "16 Mins",
-      "platformVersion": "Iris 9.0",
-      "category": [
-        "Advanced Concepts"
-      ],
-      "image": "/default/hike-default.png",
-      "kuid": "02f90etf-7ba1-4dre-a2ud-2d734fn6",
-      "hikeVersion": "1.0",
-      "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/6-advanced-concepts/zips/introductiontonfiv9.zip"
-    },
-    {
-      "nid": 24439,
-      "title": "NFIs Using Third-party Library",
-      "created": 1585630293,
-      "updated": 1615282130,
-      "fileSize": "23.88 KB",
-      "fileName": "nfibarcodev9.zip",
-      "fid": 17808,
-      "checksum": "182aee263c1bc85baeab62d10847be0188543f7bc88fc2e9cc4b922b864e6407",
-      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/nfis-using-third-party-library",
-      "alias": "hikes/tour/nfis-using-third-party-library",
-      "description": "Use NFIs to access third-party libraries, specifically Android barcode scanner.",
-      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>Learn how to:</p> <ul> <li>Import a Collection library to an app and use it in a form</li> <li>Configure the Native Function APIs required for barcode scanner for an Android app</li> <li>Add code in the Form controller for the barcode scanning functionality</li> </ul> </div> </div> <p><!--EndFragment--></p>",
-      "cards": 19,
-      "time": "20 Mins",
-      "platformVersion": "Iris 9.0",
-      "category": [
-        "Advanced Concepts"
-      ],
-      "image": "/default/hike-default.png",
-      "kuid": "f9e5f0t5-a8a5-4arb-bfu1-50d392n4",
-      "hikeVersion": "1.0",
-      "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/6-advanced-concepts/zips/nfibarcodev9.zip"
-    },
-    {
       "nid": 24433,
       "title": "Understand Identity Services",
       "created": 1585629962,
@@ -73,7 +23,7 @@
       "kuid": "295e73td-95a1-44r8-8cud-93e713n1",
       "hikeVersion": "1.0",
       "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/5-manage-back-end-services/zips/understandidentityservicesv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/understandidentityservicesv9.zip"
     },
     {
       "nid": 24434,
@@ -98,7 +48,7 @@
       "kuid": "e3ddc9t9-fba9-41r5-97u6-c75988nb",
       "hikeVersion": "1.0",
       "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/5-manage-back-end-services/zips/addasalesforceservicev9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/addasalesforceservicev9.zip"
     },
     {
       "nid": 24435,
@@ -123,7 +73,7 @@
       "kuid": "21ea72t7-d5a6-48ra-b0u2-ba8b54n3",
       "hikeVersion": "1.0",
       "weight": "3",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/5-manage-back-end-services/zips/userrepositoryauthenticationv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/userrepositoryauthenticationv9.zip"
     },
     {
       "nid": 24436,
@@ -148,7 +98,7 @@
       "kuid": "d75f6et0-c0af-4dr3-bbue-03c122nd",
       "hikeVersion": "1.0",
       "weight": "4",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
     },
     {
       "nid": 24437,
@@ -173,7 +123,57 @@
       "kuid": "06a67btd-a5a2-45rf-96u9-29d2c8n2",
       "hikeVersion": "1.0",
       "weight": "5",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/5-manage-back-end-services/zips/usestorageservicev9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/usestorageservicev9.zip"
+    },
+    {
+      "nid": 24438,
+      "title": "Introduction to NFIs",
+      "created": 1585630242,
+      "updated": 1615282019,
+      "fileSize": "19.84 KB",
+      "fileName": "introductiontonfiv9.zip",
+      "fid": 17807,
+      "checksum": "361881a8364bff4507e499c7cd3f0589d8cd98b8cc90e0bcc9193d0ae7fd1b3e",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-nfis-0",
+      "alias": "hikes/tour/introduction-nfis-0",
+      "description": "Use NFIs to access OS specific functionality, specifically Android Device Settings.",
+      "details": "<p><!--StartFragment--></p><div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Configure the Android Native Function APIs required to access Device settings on Android device from an app using Volt MX Iris.</li> <li>Add code in the Form controller to access Device Settings</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 15,
+      "time": "16 Mins",
+      "platformVersion": "Iris 9.0",
+      "category": [
+        "Advanced Concepts"
+      ],
+      "image": "/default/hike-default.png",
+      "kuid": "02f90etf-7ba1-4dre-a2ud-2d734fn6",
+      "hikeVersion": "1.0",
+      "weight": "1",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/introductiontonfiv9.zip"
+    },
+    {
+      "nid": 24439,
+      "title": "NFIs Using Third-party Library",
+      "created": 1585630293,
+      "updated": 1615282130,
+      "fileSize": "23.88 KB",
+      "fileName": "nfibarcodev9.zip",
+      "fid": 17808,
+      "checksum": "182aee263c1bc85baeab62d10847be0188543f7bc88fc2e9cc4b922b864e6407",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/nfis-using-third-party-library",
+      "alias": "hikes/tour/nfis-using-third-party-library",
+      "description": "Use NFIs to access third-party libraries, specifically Android barcode scanner.",
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>Learn how to:</p> <ul> <li>Import a Collection library to an app and use it in a form</li> <li>Configure the Native Function APIs required for barcode scanner for an Android app</li> <li>Add code in the Form controller for the barcode scanning functionality</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 19,
+      "time": "20 Mins",
+      "platformVersion": "Iris 9.0",
+      "category": [
+        "Advanced Concepts"
+      ],
+      "image": "/default/hike-default.png",
+      "kuid": "f9e5f0t5-a8a5-4arb-bfu1-50d392n4",
+      "hikeVersion": "1.0",
+      "weight": "2",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/nfibarcodev9.zip"
     },
     {
       "nid": 24826,
@@ -198,7 +198,7 @@
       "kuid": "705a94tb-faa0-47r7-a1ud-31b3dbnf",
       "hikeVersion": "1.0",
       "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/launchyourrwapp92.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/launchyourrwapp92.zip"
     },
     {
       "nid": 24413,
@@ -223,7 +223,7 @@
       "kuid": "220f01t3-bda6-40r0-92uf-56631bnb",
       "hikeVersion": "1.0",
       "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/createuifromcollections-web.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/createuifromcollections-web.zip"
     },
     {
       "nid": 24414,
@@ -248,7 +248,7 @@
       "kuid": "5e1da5td-37a0-44r6-beu6-374c3cn1",
       "hikeVersion": "1.0",
       "weight": "3",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/addauthenticationtoyourapp_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/addauthenticationtoyourapp_v9.zip"
     },
     {
       "nid": 24415,
@@ -273,7 +273,7 @@
       "kuid": "a851b9t8-75a9-4ara-88ud-946004n9",
       "hikeVersion": "1.0",
       "weight": "4",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/createservicesweb_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/createservicesweb_v9.zip"
     },
     {
       "nid": 24416,
@@ -298,7 +298,7 @@
       "kuid": "ca148ftd-07a9-4ard-98ud-6163d4nc",
       "hikeVersion": "1.0",
       "weight": "5",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/connecttheappuitodata-webv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/connecttheappuitodata-webv9.zip"
     },
     {
       "nid": 24417,
@@ -323,7 +323,7 @@
       "kuid": "082af3t0-74a2-4ere-a6u3-749d59n5",
       "hikeVersion": "1.0",
       "weight": "6",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/createdetailsscreen_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/createdetailsscreen_v9.zip"
     },
     {
       "nid": 24418,
@@ -348,7 +348,7 @@
       "kuid": "547395tb-d8ae-4fr9-b1ub-5033a6nb",
       "hikeVersion": "1.0",
       "weight": "7",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/addcreatepayeeweb_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/addcreatepayeeweb_v9.zip"
     },
     {
       "nid": 24419,
@@ -373,7 +373,7 @@
       "kuid": "c108beta-87ac-46re-87u3-92e61cnf",
       "hikeVersion": "1.0",
       "weight": "8",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/editpayeeweb_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/editpayeeweb_v9.zip"
     },
     {
       "nid": 24420,
@@ -398,7 +398,7 @@
       "kuid": "f31910t6-a4a7-42rd-a4ud-07a264n3",
       "hikeVersion": "1.0",
       "weight": "9",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/3-build-your-first-web-app/zips/responsivewebbreakpointsv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/3-build-your-first-web-app/zips/responsivewebbreakpointsv9.zip"
     },
     {
       "nid": 24825,
@@ -423,7 +423,7 @@
       "kuid": "7408efte-e2aa-4cr8-a9ub-d7ba36n8",
       "hikeVersion": "1.0",
       "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/launchyourfirstmobileappv92.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/launchyourfirstmobileappv92.zip"
     },
     {
       "nid": 24403,
@@ -448,7 +448,7 @@
       "kuid": "a617eft5-7ca8-4ard-8eu8-94cdean5",
       "hikeVersion": "1.0",
       "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/createuifromcollectionsmob_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/createuifromcollectionsmob_v9.zip"
     },
     {
       "nid": 24404,
@@ -473,7 +473,7 @@
       "kuid": "15d8c7t4-cda7-40rb-afu7-345cfcnc",
       "hikeVersion": "1.0",
       "weight": "3",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/addloginservicemob_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/addloginservicemob_v9.zip"
     },
     {
       "nid": 24405,
@@ -498,7 +498,7 @@
       "kuid": "a7a762t5-3eac-44r5-8bu2-89b781n1",
       "hikeVersion": "1.0",
       "weight": "4",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/createservices_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/createservices_v9.zip"
     },
     {
       "nid": 24406,
@@ -523,7 +523,7 @@
       "kuid": "fab6d8ta-91ac-4frc-8fud-14a9f7na",
       "hikeVersion": "1.0",
       "weight": "5",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/connectappuitodatamob_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/connectappuitodatamob_v9.zip"
     },
     {
       "nid": 24407,
@@ -548,7 +548,7 @@
       "kuid": "db7f07t9-c0a5-4erb-89u0-fab1ean8",
       "hikeVersion": "1.0",
       "weight": "6",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/createdetailsnative_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/createdetailsnative_v9.zip"
     },
     {
       "nid": 24408,
@@ -573,7 +573,7 @@
       "kuid": "da2bbctf-3ba6-49rf-b2u9-b842dand",
       "hikeVersion": "1.0",
       "weight": "7",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/addcreatemob_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/addcreatemob_v9.zip"
     },
     {
       "nid": 24409,
@@ -598,7 +598,7 @@
       "kuid": "af52eatb-e7a4-46r0-90u8-cfd0c4n6",
       "hikeVersion": "1.0",
       "weight": "8",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/editpayeemobile_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/editpayeemobile_v9.zip"
     },
     {
       "nid": 24410,
@@ -623,7 +623,7 @@
       "kuid": "ec5ceatd-50a0-4fre-b3u7-c3e41cn2",
       "hikeVersion": "1.0",
       "weight": "9",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/shareandpreviewappmobilev9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/shareandpreviewappmobilev9.zip"
     },
     {
       "nid": 24411,
@@ -648,7 +648,7 @@
       "kuid": "9c91a5tf-cfa4-48r5-a0u9-574912n0",
       "hikeVersion": "1.0",
       "weight": "10",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/usingtestrecorder_v9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/usingtestrecorder_v9.zip"
     },
     {
       "nid": 24412,
@@ -673,7 +673,7 @@
       "kuid": "c15430t5-28ac-41r0-84u1-e8bb44na",
       "hikeVersion": "1.0",
       "weight": "11",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/2-build-your-first-mobile-app/zips/pubishappenterprisestorev9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/2-build-your-first-mobile-app/zips/pubishappenterprisestorev9.zip"
     },
     {
       "nid": 24421,
@@ -698,7 +698,7 @@
       "kuid": "abe10dt2-d5ac-4fr1-95ub-7742abna",
       "hikeVersion": "1.0",
       "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/VoltMXOrientationV9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/VoltMXOrientationV9.zip"
     },
     {
       "nid": 24422,
@@ -723,7 +723,7 @@
       "kuid": "c53dccte-f9a7-41r2-82uf-37a98an2",
       "hikeVersion": "1.0",
       "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introflexlayoutv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introflexlayoutv9.zip"
     },
     {
       "nid": 24423,
@@ -748,7 +748,7 @@
       "kuid": "dfa781t7-7ea4-48r2-86u3-6b9465n9",
       "hikeVersion": "1.0",
       "weight": "3",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
     },
     {
       "nid": 24424,
@@ -773,7 +773,7 @@
       "kuid": "9b0f07t4-e9a8-49rb-83u2-876264n4",
       "hikeVersion": "1.0",
       "weight": "4",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introductiontosegmentv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontosegmentv9.zip"
     },
     {
       "nid": 24425,
@@ -798,7 +798,7 @@
       "kuid": "06a5e8td-11a4-41r7-bbua-0696bane",
       "hikeVersion": "1.0",
       "weight": "5",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/assigndatatothesegmentv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/assigndatatothesegmentv9.zip"
     },
     {
       "nid": 24426,
@@ -823,7 +823,7 @@
       "kuid": "c99652td-06a5-43ra-87u4-9e8895n7",
       "hikeVersion": "1.0",
       "weight": "6",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introductiontosegmenttemplatesv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontosegmenttemplatesv9.zip"
     },
     {
       "nid": 24427,
@@ -848,7 +848,7 @@
       "kuid": "b3a02bt3-e6aa-41rf-8eu3-d406e1n6",
       "hikeVersion": "1.0",
       "weight": "7",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introductiontoactioneditorv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontoactioneditorv9.zip"
     },
     {
       "nid": 24428,
@@ -873,7 +873,7 @@
       "kuid": "3b490at5-80ae-46rb-a4ua-3cd903n7",
       "hikeVersion": "1.0",
       "weight": "8",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/createemailidcomponentv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/createemailidcomponentv9.zip"
     },
     {
       "nid": 24429,
@@ -898,7 +898,7 @@
       "kuid": "70ff95t1-f7a5-4brd-99u8-8ce9b5nc",
       "hikeVersion": "1.0",
       "weight": "9",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/understandingapplicationchannelsv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/understandingapplicationchannelsv9.zip"
     },
     {
       "nid": 24430,
@@ -923,7 +923,7 @@
       "kuid": "7a7e14td-bda1-4fr1-bbu6-26a503nb",
       "hikeVersion": "1.0",
       "weight": "10",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introductiontoVoltMXjavascriptv9.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontoVoltMXjavascriptv9.zip"
     },
     {
       "nid": 24827,
@@ -948,7 +948,7 @@
       "kuid": "9167adt8-36ac-4crc-90ua-da60c8n7",
       "hikeVersion": "1.0",
       "weight": "11",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/introductiontointernationalization92.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontointernationalization92.zip"
     },
     {
       "nid": 24828,
@@ -973,7 +973,137 @@
       "kuid": "5ff7b4ta-15a6-4ar8-87ue-c2cdf7n8",
       "hikeVersion": "1.0",
       "weight": "12",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/phx-dev-9.5/public/contents/4-develop-the-front-end/zips/internationalizationwithlayout92.zip"
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/internationalizationwithlayout92.zip"
+    },
+    {
+      "nid": 24829,
+      "created": 1723573525,
+      "updated": 1723573525,
+      "hikeVersion": "1.0",
+      "isMXGo": true,
+      "title": "Introduction to VoltFormula",
+      "description": "Learn about using VoltFormula to use Notes Formulas and Open Formulas in your applications.",
+      "checksum": "9997c723c96824bc1ac94dabcaec4fd551bd15b02ed6a1a2d20e68736c743969",
+      "kuid": "a7b349t2-bba0-47r6-93u9-77fa34n8",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Use Notes formulas in a controller to validate the success and failure scenarios for a login form.</li> <li>Use Notes formulas in the action editor to validate the success and failure scenarios for a login form.</li></ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 19,
+      "time": "15 Mins",
+      "platformVersion": "Iris 9.5",
+      "fileName": "introductiontovoltformula.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/IntroductiontoVoltFormula",
+      "alias": "hikes/tour/IntroductiontoVoltFormula",
+      "image": "/default/hike-default.png",
+      "fileSize": "51 KB",
+      "fid": 17649,
+      "weight": "13",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/introductiontovoltformula.zip"
+    },
+    {
+      "nid": 24830,
+      "created": 1723572173,
+      "updated": 1723572173,
+      "hikeVersion": "1.0",
+      "isMXGo": true,
+      "title": "VoltFormula Settings",
+      "description": "Learn about the settings that control VoltFormula.",
+      "checksum": "2691610133ed75c9ca07ae27ec6e7312eeb3e3da228664bd2a67badba4c50ef5",
+      "kuid": "258261tb-dfa8-4are-a7u7-a86708n0",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Access and change the VoltFormula project settings.</li> <li>Change VoltFormula settings and see how they affect the behavior of VoltFormula.</li></ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 30,
+      "time": "20 Mins",
+      "platformVersion": "Iris 9.5",
+      "fileName": "voltformulasettings.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/VoltFormulaSettings",
+      "alias": "hikes/tour/VoltFormulaSettings",
+      "image": "/default/hike-default.png",
+      "fileSize": "85 KB",
+      "fid": 17650,
+      "weight": "14",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/voltformulasettings.zip"
+    },
+    {
+      "nid": 24831,
+      "created": 1724351861,
+      "updated": 1724351861,
+      "hikeVersion": "1.0",
+      "isMXGo": true,
+      "title": "Creating Custom Formulas",
+      "description": "Learn how to create a custom formula to extend VoltFormula in your Iris applications. ",
+      "checksum": "3bcaa882b09725ef7c2385c1fb03eab73f74aa77d24bf29429b94085f238c17e",
+      "kuid": "216a44t5-09a6-4er4-96u0-157e07nd",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Create a file that defines custom formulas.</li> <li>Add the custom formulas to Iris using the VoltFormula settings.</li><li>Use the custom formula in the application code.</li></ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 11,
+      "time": "10 Mins",
+      "platformVersion": "Iris 9.5",
+      "fileName": "creatingcustomformulas.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/CreatingCustomFormulas",
+      "alias": "hikes/tour/CreatingCustomFormulas",
+      "image": "/default/hike-default.png",
+      "fileSize": "32 KB",
+      "fid": 17651,
+      "weight": "15",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/creatingcustomformulas.zip"
+    },
+    {
+      "nid": 24832,
+      "created": 1732560632,
+      "updated": 1732560632,
+      "hikeVersion": "1.0",
+      "isMXGo": true,
+      "title": "Configuring Access to Domino",
+      "description": "Learn how to configure Foundry services for accessing Domino from your Iris applications. ",
+      "checksum": "36c0a93e043bbb053592b423cc43a2c172fd8d1dd985bc1b9c49c06dcef1ae9e",
+      "kuid": "08f31btc-69a1-46rc-97u1-dd70aen0",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Configure the Domino database in the Domino REST API.</li><li>Create the foundry application, identity service, and object service that will be used by the Iris app.</li></ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 13,
+      "time": "15 Mins",
+      "platformVersion": "Iris 9.5",
+      "fileName": "configuringaccesstodomino.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/ConfiguringAccessToDomino",
+      "alias": "hikes/tour/ConfiguringAccessToDomino",
+      "image": "/default/hike-default.png",
+      "fileSize": "44 KB",
+      "fid": 17652,
+      "weight": "16",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/configuringaccesstodomino.zip"
+    },
+    {
+      "nid": 24833,
+      "created": 1732563039,
+      "updated": 1732563039,
+      "hikeVersion": "1.0",
+      "isMXGo": true,
+      "title": "Adding Domino Access for VoltFormula",
+      "description": "Update the Iris application to use Notes formulas that access information in a Domino database. ",
+      "checksum": "bef0aa8edb3070dce63a33e934d662bca5ab1ccb77fbaef0b9846c4e25519187",
+      "kuid": "935f1ft8-e3ae-41r9-98ue-931a9en6",
+      "category": [
+        "Develop the Front End"
+      ],
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p><p>Learn how to:</p><ul><li>Add foundry services to an Iris application to allow access to a Domino database.</li><li>Add Notes formula that access the Domino database to your Iris application.</li></ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 30,
+      "time": "30 Mins",
+      "platformVersion": "Iris 9.5",
+      "fileName": "addingdominoaccessforvoltformula.zip",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/AddingDominoAccessforVoltFormula",
+      "alias": "hikes/tour/AddingDominoAccessforVoltFormula",
+      "image": "/default/hike-default.png",
+      "fileSize": "102 KB",
+      "fid": 17653,
+      "weight": "17",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/4-develop-the-front-end/zips/addingdominoaccessforvoltformula.zip"
     }
   ]
 }
