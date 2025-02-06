@@ -7,7 +7,7 @@
     "isMXGo": true,
     "title": "Configuring Access to Domino",
     "description": "Learn how to configure Foundry services for accessing Domino from your Iris applications. ",
-    "checksum": "a0613948a3485366a8fb41fac49566d2f626924ee5d08072d3085ba2d9e8e36b",
+    "checksum": "7fd3f18c01b621b65b9deaa60efe697232799810d901173237d273b116c4e33b",
     "kuid": "08f31btc-69a1-46rc-97u1-dd70aen0",
     "category": [
       "Develop the Front End"

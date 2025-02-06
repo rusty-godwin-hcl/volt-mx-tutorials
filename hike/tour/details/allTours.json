@@ -1,56 +1,6 @@
 {
   "allTours": [
     {
-      "nid": 24438,
-      "title": "Introduction to NFIs",
-      "created": 1585630242,
-      "updated": 1615282019,
-      "fileSize": "19.84 KB",
-      "fileName": "introductiontonfiv9.zip",
-      "fid": 17807,
-      "checksum": "361881a8364bff4507e499c7cd3f0589d8cd98b8cc90e0bcc9193d0ae7fd1b3e",
-      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-nfis-0",
-      "alias": "hikes/tour/introduction-nfis-0",
-      "description": "Use NFIs to access OS specific functionality, specifically Android Device Settings.",
-      "details": "<p><!--StartFragment--></p><div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Configure the Android Native Function APIs required to access Device settings on Android device from an app using Volt MX Iris.</li> <li>Add code in the Form controller to access Device Settings</li> </ul> </div> </div> <p><!--EndFragment--></p>",
-      "cards": 15,
-      "time": "16 Mins",
-      "platformVersion": "Iris 9.0",
-      "category": [
-        "Advanced Concepts"
-      ],
-      "image": "/default/hike-default.png",
-      "kuid": "02f90etf-7ba1-4dre-a2ud-2d734fn6",
-      "hikeVersion": "1.0",
-      "weight": "1",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/introductiontonfiv9.zip"
-    },
-    {
-      "nid": 24439,
-      "title": "NFIs Using Third-party Library",
-      "created": 1585630293,
-      "updated": 1615282130,
-      "fileSize": "23.88 KB",
-      "fileName": "nfibarcodev9.zip",
-      "fid": 17808,
-      "checksum": "182aee263c1bc85baeab62d10847be0188543f7bc88fc2e9cc4b922b864e6407",
-      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/nfis-using-third-party-library",
-      "alias": "hikes/tour/nfis-using-third-party-library",
-      "description": "Use NFIs to access third-party libraries, specifically Android barcode scanner.",
-      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>Learn how to:</p> <ul> <li>Import a Collection library to an app and use it in a form</li> <li>Configure the Native Function APIs required for barcode scanner for an Android app</li> <li>Add code in the Form controller for the barcode scanning functionality</li> </ul> </div> </div> <p><!--EndFragment--></p>",
-      "cards": 19,
-      "time": "20 Mins",
-      "platformVersion": "Iris 9.0",
-      "category": [
-        "Advanced Concepts"
-      ],
-      "image": "/default/hike-default.png",
-      "kuid": "f9e5f0t5-a8a5-4arb-bfu1-50d392n4",
-      "hikeVersion": "1.0",
-      "weight": "2",
-      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/nfibarcodev9.zip"
-    },
-    {
       "nid": 24433,
       "title": "Understand Identity Services",
       "created": 1585629962,
@@ -174,6 +124,56 @@
       "hikeVersion": "1.0",
       "weight": "5",
       "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/5-manage-back-end-services/zips/usestorageservicev9.zip"
+    },
+    {
+      "nid": 24438,
+      "title": "Introduction to NFIs",
+      "created": 1585630242,
+      "updated": 1615282019,
+      "fileSize": "19.84 KB",
+      "fileName": "introductiontonfiv9.zip",
+      "fid": 17807,
+      "checksum": "361881a8364bff4507e499c7cd3f0589d8cd98b8cc90e0bcc9193d0ae7fd1b3e",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-nfis-0",
+      "alias": "hikes/tour/introduction-nfis-0",
+      "description": "Use NFIs to access OS specific functionality, specifically Android Device Settings.",
+      "details": "<p><!--StartFragment--></p><div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Configure the Android Native Function APIs required to access Device settings on Android device from an app using Volt MX Iris.</li> <li>Add code in the Form controller to access Device Settings</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 15,
+      "time": "16 Mins",
+      "platformVersion": "Iris 9.0",
+      "category": [
+        "Advanced Concepts"
+      ],
+      "image": "/default/hike-default.png",
+      "kuid": "02f90etf-7ba1-4dre-a2ud-2d734fn6",
+      "hikeVersion": "1.0",
+      "weight": "1",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/introductiontonfiv9.zip"
+    },
+    {
+      "nid": 24439,
+      "title": "NFIs Using Third-party Library",
+      "created": 1585630293,
+      "updated": 1615282130,
+      "fileSize": "23.88 KB",
+      "fileName": "nfibarcodev9.zip",
+      "fid": 17808,
+      "checksum": "182aee263c1bc85baeab62d10847be0188543f7bc88fc2e9cc4b922b864e6407",
+      "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/nfis-using-third-party-library",
+      "alias": "hikes/tour/nfis-using-third-party-library",
+      "description": "Use NFIs to access third-party libraries, specifically Android barcode scanner.",
+      "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>Learn how to:</p> <ul> <li>Import a Collection library to an app and use it in a form</li> <li>Configure the Native Function APIs required for barcode scanner for an Android app</li> <li>Add code in the Form controller for the barcode scanning functionality</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+      "cards": 19,
+      "time": "20 Mins",
+      "platformVersion": "Iris 9.0",
+      "category": [
+        "Advanced Concepts"
+      ],
+      "image": "/default/hike-default.png",
+      "kuid": "f9e5f0t5-a8a5-4arb-bfu1-50d392n4",
+      "hikeVersion": "1.0",
+      "weight": "2",
+      "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/voltformula-hikes/public/contents/6-advanced-concepts/zips/nfibarcodev9.zip"
     },
     {
       "nid": 24826,
@@ -983,7 +983,7 @@
       "isMXGo": true,
       "title": "Introduction to VoltFormula",
       "description": "Learn about using VoltFormula to use Notes Formulas and Open Formulas in your applications.",
-      "checksum": "68ec83aa5654cd06f57cb72a3de0cff4383090bbf9caa4af7573d3bf89679694",
+      "checksum": "5c87a223cbed3bbf3cbeae0528d283a954ab08f4026fbbf5696f4a2d4b6ef0fe",
       "kuid": "a7b349t2-bba0-47r6-93u9-77fa34n8",
       "category": [
         "Develop the Front End"
@@ -1009,7 +1009,7 @@
       "isMXGo": true,
       "title": "VoltFormula Settings",
       "description": "Learn about the settings that control VoltFormula.",
-      "checksum": "b72531c3a88b5dd7e05dd29ec107105b00828565fe218e85e682a6c649287008",
+      "checksum": "617fe55c60ef9adfefaae32db06b920de59d683b66eb28950a8d44f6916ab848",
       "kuid": "258261tb-dfa8-4are-a7u7-a86708n0",
       "category": [
         "Develop the Front End"
@@ -1035,7 +1035,7 @@
       "isMXGo": true,
       "title": "Creating Custom Formulas",
       "description": "Learn how to create a custom formula to extend VoltFormula in your Iris applications. ",
-      "checksum": "effbbdd5132ac41fabdeced80fdd6ca551726e6a130dfb66fd0d2003e81dd3b0",
+      "checksum": "58c0c576f9b8fb4074c514a87c1507873d3956bf2e269bf5ef8b64e7335dcc05",
       "kuid": "216a44t5-09a6-4er4-96u0-157e07nd",
       "category": [
         "Develop the Front End"
@@ -1061,7 +1061,7 @@
       "isMXGo": true,
       "title": "Configuring Access to Domino",
       "description": "Learn how to configure Foundry services for accessing Domino from your Iris applications. ",
-      "checksum": "a0613948a3485366a8fb41fac49566d2f626924ee5d08072d3085ba2d9e8e36b",
+      "checksum": "7fd3f18c01b621b65b9deaa60efe697232799810d901173237d273b116c4e33b",
       "kuid": "08f31btc-69a1-46rc-97u1-dd70aen0",
       "category": [
         "Develop the Front End"
@@ -1087,7 +1087,7 @@
       "isMXGo": true,
       "title": "Adding Domino Access for VoltFormula",
       "description": "Update the Iris application to use Notes formulas that access information in a Domino database. ",
-      "checksum": "17eeecbcaeffe22d8336fe2aa58e0b14b1c5d8c99678b1a2ac2aa265e4a826f4",
+      "checksum": "cf2b5b0620e574024280bb33a295cddcebe47cf5240eb25d5fb8fb772838ed8f",
       "kuid": "935f1ft8-e3ae-41r9-98ue-931a9en6",
       "category": [
         "Develop the Front End"
